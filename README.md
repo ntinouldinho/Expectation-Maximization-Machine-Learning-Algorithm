@@ -4,7 +4,7 @@ This is our original photo before applying our Expectation Maximization Algorith
 
 ![Alt text](im.jpg)
 
-We test our algorithm using a variety of K values (1,2,4,8,16,32,64).
+We test our algorithm using a variety of <strong> K values (1,2,4,8,16,32,64) </strong>.
 The total runtime for the rendering and for the algorithm to complete all iterations (if needed) was 48'.
 
 Below we see a side by side comparison of the results for each value of K.
